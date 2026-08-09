@@ -16,4 +16,7 @@ COULDBCHARLIE
 <p align="center">   
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kosugi&size=20&duration=4000&pause=19000&color=DB1A1A&center=true&vCenter=true&width=435&lines=And%E2%80%87a%E2%80%87Nazi." alt="Typing SVG" /></a>
 
-hi
+<p align="center">
+ _____________
+ <p align="center">
+ dni neonazis racists bigots maps. oh and also object show fans
