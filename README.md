@@ -19,4 +19,3 @@ COULDBCHARLIE
 <p align="center">
  _____________
  <p align="center">
- dni neonazis racists bigots maps. oh and also object show fans
