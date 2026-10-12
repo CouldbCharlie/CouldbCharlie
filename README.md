@@ -1,6 +1,8 @@
 <p align="center">
 COULDBCHARLIE
  <p align="center">
+ (Gotta get my photos back up sorry)
+ <p align="center">
   <p align="center">
  <img src="https://camo.githubusercontent.com/dbd14206dfe233fa6d97a0b558f34dfc870532b4f33f477e1266a1eaa34c5f34/68747470733a2f2f692e6962622e636f2f32375a31626853442f70726f6a6563742d62657468657364612d323534303734322e6a7067"width="280" height="260%"/>
 <p align="center">
