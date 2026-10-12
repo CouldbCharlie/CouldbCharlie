@@ -1,10 +1,9 @@
 <p align="center">
 COULDBCHARLIE
  <p align="center">
- (Gotta get my photos back up sorry)
- <p align="center">
+  
   <p align="center">
- <img src="https://camo.githubusercontent.com/dbd14206dfe233fa6d97a0b558f34dfc870532b4f33f477e1266a1eaa34c5f34/68747470733a2f2f692e6962622e636f2f32375a31626853442f70726f6a6563742d62657468657364612d323534303734322e6a7067"width="280" height="260%"/>
+ <img src="https://media.discordapp.net/attachments/998032767403167857/1559019364718485574/43ca8347a0a5c5c2638303b0f0269a7a.png?ex=6acd8d6d&is=6acc3bed&hm=a5bd647058577dfcb5ba119d3d4cfaa9d4c96df7afa116536d66ec9fb23ee1be&=&format=webp&quality=lossless&width=1536&height=843"width="280" height="260%"/>
 <p align="center">
 𐔌   ㅤㅤ<a href= "https://couldbcharlie.atabook.org/"> ATABOOK.</a> ㅤ <a href= "https://couldbcharlie.straw.page/"> STRAWPAGE.</a> ㅤ <a href= "https://en.wikipedia.org/wiki/Wolfenstein"> PLACEHOLDRR</a>ㅤㅤ ۪  𐦯
 </p>
