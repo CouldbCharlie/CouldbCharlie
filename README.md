@@ -3,7 +3,7 @@ COULDBCHARLIE
  <p align="center">
   
   <p align="center">
- <img src="https://media.discordapp.net/attachments/998032767403167857/1559019364718485574/43ca8347a0a5c5c2638303b0f0269a7a.png?ex=6acd8d6d&is=6acc3bed&hm=a5bd647058577dfcb5ba119d3d4cfaa9d4c96df7afa116536d66ec9fb23ee1be&=&format=webp&quality=lossless&width=1536&height=843"width="280" height="260%"/>
+ <img src="<img src="https://file.garden/aOxXiMIeICuTJIJm/theneworder_BlogBanner.jpg">"width="280" height="260%"/>
 <p align="center">
 𐔌   ㅤㅤ<a href= "https://couldbcharlie.atabook.org/"> ATABOOK.</a> ㅤ <a href= "https://couldbcharlie.straw.page/"> STRAWPAGE.</a> ㅤ <a href= "https://en.wikipedia.org/wiki/Wolfenstein"> PLACEHOLDRR</a>ㅤㅤ ۪  𐦯
 </p>
