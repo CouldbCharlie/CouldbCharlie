@@ -3,7 +3,7 @@ COULDBCHARLIE
  <p align="center">
   
   <p align="center">
- <img src="theneworder_BlogBanner (1).jpg width"="280" height="260%"/>
+ <img src="https://github.com/CouldbCharlie/CouldbCharlie/blob/e6d77705ae860a86716c1665a1ce4cd8357d2d58/theneworder_BlogBanner%20(1).jpg" width="280" height="260%"/>
 <p align="center">
 𐔌   ㅤㅤ<a href= "https://couldbcharlie.atabook.org/"> ATABOOK.</a> ㅤ <a href= "https://couldbcharlie.straw.page/"> STRAWPAGE.</a> ㅤ <a href= "https://en.wikipedia.org/wiki/Wolfenstein"> PLACEHOLDRR</a>ㅤㅤ ۪  𐦯
 </p>
